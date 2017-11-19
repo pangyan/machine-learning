@@ -1,0 +1,110 @@
+About the data
+
+===== URL =====
+https://www.kaggle.com/jangot/ligue1-match-statistics/data
+
+===== Title =====
+Match Statistics from top 5 European Leagues
+Italy, Spain, England, Germany, France 2012-2017
+
+===== Author =====
+by Jemilu Mohammed
+
+===== Last Updated =====
+last updated 3 months ago
+
+===== Columns =====
+Unnamed: 0                   int64
+id                           int64
+homeTacklesTotalHT           int64
+homeShotsTotalHT             int64
+awayDispossessedFT         float64
+awayPassSuccessFT          float64
+awayRatingsFT              float64
+awayDribbleSuccessFT       float64
+awayDribblesAttemptedHT      int64
+awayTeamLineUp              object
+awayShotsBlockedHT         float64
+awayShotsTotalHT           float64
+homeDribbleSuccessHT       float64
+homeFoulsCommitedFT          int64
+homeAerialsTotalFT           int64
+homeRatingsHT              float64
+awayShotsOnTargetFT        float64
+awayShotsBlockedFT         float64
+homeInterceptionsHT          int64
+awayPossessionHT           float64
+homePassesKeyFT              int64
+awayShotsOnTargetHT        float64
+awayDribblesWonFT          float64
+awayTackleSuccessHT        float64
+homeCornersTotalFT         float64
+homeAerialsTotalHT           int64
+homeShotsBlockedFT         float64
+awayCornersTotalHT         float64
+homeCornersTotalHT         float64
+homeDribbleSuccessFT       float64
+homeTeamLineUp              object
+awayPassSuccessHT          float64
+awayDribblesWonHT          float64
+homeDispossessedHT           int64
+awayAerialsTotalFT           int64
+homeShotsBlockedHT         float64
+awayPassesKeyFT            float64
+homeTackleSuccessHT        float64
+awayPassesKeyHT            float64
+homeFormation               object
+awayInterceptionsHT          int64
+awayDispossessedHT         float64
+refereeName                 object
+homeDribblesWonHT          float64
+homePossessionFT           float64
+awayAerialsTotalHT           int64
+awayGoalHT                   int64
+awayManagerName             object
+awayInterceptionsFT          int64
+homeDribbledPastFT         float64
+homeGoalHT                   int64
+awayDribbleSuccessHT       float64
+homeGoalFT                   int64
+awayTacklesTotalHT           int64
+homeDribblesWonFT          float64
+awayTackleSuccessFT        float64
+awayTeam                    object
+homeDispossessedFT           int64
+awayOffsidesCaughtFT       float64
+awayDribbledPastFT         float64
+homeShotsOnTargetHT        float64
+awayFormation               object
+awayOffsidesCaughtHT       float64
+homeDribbledPastHT         float64
+awayFoulsCommitedHT          int64
+homeShotsTotalFT             int64
+homePassSuccessFT          float64
+homeFoulsCommitedHT          int64
+awayCornersTotalFT         float64
+homeTeam                    object
+homeManagerName             object
+awayFoulsCommitedFT          int64
+homeShotsOnTargetFT        float64
+homeDribblesAttemptedHT    float64
+awayRatingsHT              float64
+homeOffsidesCaughtHT       float64
+homeTacklesTotalFT           int64
+awayDribbledPastHT         float64
+awayGoalFT                   int64
+homePassesKeyHT              int64
+homeOffsidesCaughtFT       float64
+homePossessionHT           float64
+venueName                   object
+awayDribblesAttemptedFT      int64
+homeInterceptionsFT          int64
+homePassSuccessHT          float64
+date                        object
+awayTacklesTotalFT           int64
+homeRatingsFT              float64
+homeDribblesAttemptedFT    float64
+homeTackleSuccessFT        float64
+awayPossessionFT           float64
+awayShotsTotalFT           float64
+division                    object          ['Bundesliga' 'EPL' 'La_Liga' 'Ligue_1' 'Serie_A']
